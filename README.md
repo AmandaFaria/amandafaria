@@ -3,7 +3,7 @@
 - 🌱 Estudando Java, SQL e JavaScript
 - 😄 Pronouns: ela/she
 <div>
-  <a href="https://github.com/amandafaria">
+  <a href="https://github.com/AmandaFaria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandafaria&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandafaria&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -21,6 +21,6 @@
   <a href = "mailto:amanda34faria@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/amanda-faria-872138197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/AmandaFaria/amandafaria/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AmandaFaria/AmandaFaria/blob/output/github-contribution-grid-snake.svg)
  
 </div>
