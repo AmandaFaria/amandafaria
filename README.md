@@ -1,5 +1,7 @@
 ## Oii! Eu sou a Amanda Faria
 
+- 📖 Aluna da Generation Brasil
+- 💻 Desenvolvedora Front-end
 - 🌱 Estudando Java, SQL e JavaScript
 - 😄 Pronouns: ela/she
 <div>
