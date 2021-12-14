@@ -1,8 +1,8 @@
 ## Oii! Eu sou a Amanda Faria
 
 - 📖 Aluna da Generation Brasil
-- 💻 Desenvolvedora Front-end
-- 🌱 Estudando Java, SQL e JavaScript
+- 💻 Desenvolvedora Full Stack Jr.
+- 🌱 Estudando React
 - 😄 Pronouns: ela/she
 <div align="center">
   <a href="https://github.com/AmandaFaria">
