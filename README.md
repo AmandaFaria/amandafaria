@@ -2,7 +2,7 @@
 
 - 📖 Aluna de Ciência da Computação
 - 💻 Web Design Developer
-- 🌱 Estudando Computação Gráfica
+- 🌱 Estudando Ruby
 - 😄 Pronouns: ela/she
 <div align="center">
   <a href="https://github.com/AmandaFaria">
