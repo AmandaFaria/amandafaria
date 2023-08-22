@@ -1,8 +1,6 @@
 ## Oii! Eu sou a Amanda Faria
 
 - 📖 Aluna de Ciência da Computação
-- 💻 UX designer do site da UTFPR
-- 🌱 Estudando UX
 - 😄 Pronouns: ela/she
 <div align="center">
   <a href="https://github.com/AmandaFaria">
