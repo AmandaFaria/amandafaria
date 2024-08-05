@@ -2,6 +2,7 @@
 
 - 📖 Aluna de Ciência da Computação
 - 😄 Pronouns: ela/she
+- Atualmente estudando Flutter
 <div align="center">
   <a href="https://github.com/AmandaFaria">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=amandafaria&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
